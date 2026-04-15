@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Chicken Pastil House</string>
+    <string name="title_activity_main">Chicken Pastil House</string>
+    <string name="package_name">com.johnpaulpatigas.cph</string>
+    <string name="custom_url_scheme">com.johnpaulpatigas.cph</string>
+</resources>
